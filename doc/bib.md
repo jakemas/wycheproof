@@ -216,7 +216,7 @@ Alibaba 2.0 generated RSA key pairs with an exponent 1
 ### CVE-2012-5081
 Java JSSE provider leaked information through exceptions and
 timing. Both the PKCS #1 padding and the OAEP padding were broken:
-http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/MeyerChristopher/diss.pdf
+https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-meyer.pdf
 
 ### CVE-2015-6924
 Utimaco HSMs vulnerable to invalid curve attacks.
