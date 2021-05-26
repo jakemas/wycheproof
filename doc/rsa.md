@@ -7,7 +7,7 @@
 **Default size:** If a library supports a key default size for RSA keys then
 this key size should be at least 2048 bits. This limit is based on the minimum
 recommendation of [[NIST-SP800-57]](bib.md#nist-sp800-57) part1 revision 4,
-Table 2, page 53. NIST recommends a minimal security strength of 112 bits for
+Table 2, page 54. NIST recommends a minimal security strength of 112 bits for
 keys used until 2030. 112 bit security strength translates to a minimal key size
 of 2048 bits. Other organizations recommend somewhat different sizes:
 [[EnisaKeySize14]](bib.md#enisakeysize14), Section 3.6 also suggests that
